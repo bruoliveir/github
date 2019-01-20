@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHub Repositories</string>
+    <string name="repository_list_fetch_error">Unable to retrieve items. Please, try again later.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="repository_list_empty_state">No repositories found. Pull to try again.</string>
+    <string name="repository_list_item_stars">%d stars</string>
+    <string name="repository_list_item_forks">%d forks</string>
+    <string name="repository_list_item_by_author">by %s</string>
+</resources>
